@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 输入三个数从大到小排序.
 int main()
 {
     int a = 0;
