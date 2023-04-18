@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 给三个数判断三角形.
 int main()
 {
     int a, b, c;

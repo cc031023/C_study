@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 简单的算术题.
 int main()
 {
     int n;
