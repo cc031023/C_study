@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 求最大公约数.
 inline int gcd(int a, int b) // a,b可以为0.
 {
     if (b)
