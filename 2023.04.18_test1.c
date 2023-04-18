@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 打印9 * 9乘法表.
 int main()
 {
     int i = 0, j = 0;
