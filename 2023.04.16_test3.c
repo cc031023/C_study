@@ -2,6 +2,7 @@
 
 int prime[203], vis[203];
 int cnt;
+// 欧拉筛法求100~200之间的所有质数.
 int main()
 {
     int i = 0, j = 0;
