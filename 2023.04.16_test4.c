@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 判断闰年.
 inline int check(int x)
 {
     return x % 400 == 0 || (x % 4 == 0 && x % 100);
