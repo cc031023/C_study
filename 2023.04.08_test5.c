@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 知道体重和身高求BMI.
 int main()
 {
     double a, b;
