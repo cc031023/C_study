@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 简单购物应用题.
+// 简单购物应用题
 int main()
 {
     double val = 0;
