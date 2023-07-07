@@ -22,5 +22,7 @@ int main() {
     k %= len;
     char* ans = LeftReverse(arr, k, len);
     printf("%s\n", ans);
+    free(ans);
+    ans = NULL;
     return 0;
 }
